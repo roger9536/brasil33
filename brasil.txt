@@ -1,0 +1,730 @@
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Aparecida " tvg-logo="" group-title="Brazilia",BR TV Aparecida 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72219
+#EXTINF:-1 tvg-id="" tvg-name="BR CNN HD " tvg-logo="" group-title="Brazilia",BR CNN HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72217
+#EXTINF:-1 tvg-id="" tvg-name="BR TV asil FHD " tvg-logo="" group-title="Brazilia",BR TV asil FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72216
+#EXTINF:-1 tvg-id="" tvg-name="BR TV asil HD " tvg-logo="" group-title="Brazilia",BR TV asil HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72215
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Mundi FHD " tvg-logo="" group-title="Brazilia",BR HBO Mundi FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72214
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Mundi " tvg-logo="" group-title="Brazilia",BR HBO Mundi 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72213
+#EXTINF:-1 tvg-id="" tvg-name="BR Gospel Movies Television " tvg-logo="" group-title="Brazilia",BR Gospel Movies Television 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72212
+#EXTINF:-1 tvg-id="" tvg-name="BR TVE Bahia HD " tvg-logo="" group-title="Brazilia",BR TVE Bahia HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72211
+#EXTINF:-1 tvg-id="" tvg-name="BR Zoomoo FHD " tvg-logo="" group-title="Brazilia",BR Zoomoo FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72210
+#EXTINF:-1 tvg-id="" tvg-name="BR Zoomoo HD " tvg-logo="" group-title="Brazilia",BR Zoomoo HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72209
+#EXTINF:-1 tvg-id="" tvg-name="BR Zoomoo SD " tvg-logo="" group-title="Brazilia",BR Zoomoo SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72208
+#EXTINF:-1 tvg-id="" tvg-name="BR Woohoo SD " tvg-logo="" group-title="Brazilia",BR Woohoo SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72207
+#EXTINF:-1 tvg-id="" tvg-name="BR Warner Channel HD " tvg-logo="" group-title="Brazilia",BR Warner Channel HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72206
+#EXTINF:-1 tvg-id="" tvg-name="BR Warner Channel SD " tvg-logo="" group-title="Brazilia",BR Warner Channel SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72205
+#EXTINF:-1 tvg-id="" tvg-name="BR VH1 FHD " tvg-logo="" group-title="Brazilia",BR VH1 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72204
+#EXTINF:-1 tvg-id="" tvg-name="BR Viva FHD " tvg-logo="" group-title="Brazilia",BR Viva FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72203
+#EXTINF:-1 tvg-id="" tvg-name="BR Viva SD " tvg-logo="" group-title="Brazilia",BR Viva SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72202
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Action HD " tvg-logo="" group-title="Brazilia",BR Telecine Action HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72201
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Action SD " tvg-logo="" group-title="Brazilia",BR Telecine Action SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72200
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Cult FHD " tvg-logo="" group-title="Brazilia",BR Telecine Cult FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72199
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Cult SD " tvg-logo="" group-title="Brazilia",BR Telecine Cult SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72198
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Fun HD " tvg-logo="" group-title="Brazilia",BR Telecine Fun HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72197
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Fun SD " tvg-logo="" group-title="Brazilia",BR Telecine Fun SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72196
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Premium FHD " tvg-logo="" group-title="Brazilia",BR Telecine Premium FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72195
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Premium SD " tvg-logo="" group-title="Brazilia",BR Telecine Premium SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72194
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Touch FHD " tvg-logo="" group-title="Brazilia",BR Telecine Touch FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72193
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Touch SD " tvg-logo="" group-title="Brazilia",BR Telecine Touch SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72192
+#EXTINF:-1 tvg-id="" tvg-name="BR Telecine Pipoca FHD " tvg-logo="" group-title="Brazilia",BR Telecine Pipoca FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72191
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT Series FHD " tvg-logo="" group-title="Brazilia",BR TNT Series FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72190
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT Series HD " tvg-logo="" group-title="Brazilia",BR TNT Series HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72189
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT FHD " tvg-logo="" group-title="Brazilia",BR TNT FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72188
+#EXTINF:-1 tvg-id="" tvg-name="BR TCM SD " tvg-logo="" group-title="Brazilia",BR TCM SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72187
+#EXTINF:-1 tvg-id="" tvg-name="BR TBS FHD " tvg-logo="" group-title="Brazilia",BR TBS FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72186
+#EXTINF:-1 tvg-id="" tvg-name="BR TruTV SD " tvg-logo="" group-title="Brazilia",BR TruTV SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72184
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Cultura HD " tvg-logo="" group-title="Brazilia",BR TV Cultura HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72182
+#EXTINF:-1 tvg-id="" tvg-name="BR Tooncast SD " tvg-logo="" group-title="Brazilia",BR Tooncast SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72180
+#EXTINF:-1 tvg-id="" tvg-name="BR Tooncast HD " tvg-logo="" group-title="Brazilia",BR Tooncast HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72179
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Ra Tim Bum SD " tvg-logo="" group-title="Brazilia",BR TV Ra Tim Bum SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72178
+#EXTINF:-1 tvg-id="" tvg-name="BR Sportv 1 FHD " tvg-logo="" group-title="Brazilia",BR Sportv 1 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72175
+#EXTINF:-1 tvg-id="" tvg-name="BR Sportv 2 HD " tvg-logo="" group-title="Brazilia",BR Sportv 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72174
+#EXTINF:-1 tvg-id="" tvg-name="BR Sportv 3 FHD " tvg-logo="" group-title="Brazilia",BR Sportv 3 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72173
+#EXTINF:-1 tvg-id="" tvg-name="BR Studio Universal SD " tvg-logo="" group-title="Brazilia",BR Studio Universal SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72172
+#EXTINF:-1 tvg-id="" tvg-name="BR Sony SD " tvg-logo="" group-title="Brazilia",BR Sony SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72170
+#EXTINF:-1 tvg-id="" tvg-name="BR SyFy FHD " tvg-logo="" group-title="Brazilia",BR SyFy FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72169
+#EXTINF:-1 tvg-id="" tvg-name="BR Space HD " tvg-logo="" group-title="Brazilia",BR Space HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72168
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT FHD " tvg-logo="" group-title="Brazilia",BR SBT FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72167
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT SP HD " tvg-logo="" group-title="Brazilia",BR SBT SP HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72166
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT Parana SD " tvg-logo="" group-title="Brazilia",BR SBT Parana SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72165
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT Interior SP " tvg-logo="" group-title="Brazilia",BR SBT Interior SP 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72164
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT SP SD " tvg-logo="" group-title="Brazilia",BR SBT SP SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72163
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT Cidade Verde HD " tvg-logo="" group-title="Brazilia",BR SBT Cidade Verde HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72162
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT TV Jornal HD " tvg-logo="" group-title="Brazilia",BR SBT TV Jornal HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72161
+#EXTINF:-1 tvg-id="" tvg-name="BR Record FHD " tvg-logo="" group-title="Brazilia",BR Record FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72160
+#EXTINF:-1 tvg-id="" tvg-name="BR Record TV SD " tvg-logo="" group-title="Brazilia",BR Record TV SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72159
+#EXTINF:-1 tvg-id="" tvg-name="BR Record News SD " tvg-logo="" group-title="Brazilia",BR Record News SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72158
+#EXTINF:-1 tvg-id="" tvg-name="BR Record RS SD " tvg-logo="" group-title="Brazilia",BR Record RS SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72157
+#EXTINF:-1 tvg-id="" tvg-name="BR Record RJ SD " tvg-logo="" group-title="Brazilia",BR Record RJ SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72156
+#EXTINF:-1 tvg-id="" tvg-name="BR Record Parana HD " tvg-logo="" group-title="Brazilia",BR Record Parana HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72155
+#EXTINF:-1 tvg-id="" tvg-name="BR Record Ba HD " tvg-logo="" group-title="Brazilia",BR Record Ba HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72154
+#EXTINF:-1 tvg-id="" tvg-name="BR Record Mg SD " tvg-logo="" group-title="Brazilia",BR Record Mg SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72153
+#EXTINF:-1 tvg-id="" tvg-name="BR Record RJ HD " tvg-logo="" group-title="Brazilia",BR Record RJ HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72152
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 7 SD " tvg-logo="" group-title="Brazilia",BR Premier 7 SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72151
+#EXTINF:-1 tvg-id="" tvg-name="BR Premiere 6 FHD " tvg-logo="" group-title="Brazilia",BR Premiere 6 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72150
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 5 FHD " tvg-logo="" group-title="Brazilia",BR Premier 5 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72149
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 4 SD " tvg-logo="" group-title="Brazilia",BR Premier 4 SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72148
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 4 FHD " tvg-logo="" group-title="Brazilia",BR Premier 4 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72147
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 3 FHD " tvg-logo="" group-title="Brazilia",BR Premier 3 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72146
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 2 FHD " tvg-logo="" group-title="Brazilia",BR Premier 2 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72145
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 1 FHD " tvg-logo="" group-title="Brazilia",BR Premier 1 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72144
+#EXTINF:-1 tvg-id="" tvg-name="BR Premier 1 SD " tvg-logo="" group-title="Brazilia",BR Premier 1 SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72143
+#EXTINF:-1 tvg-id="" tvg-name="BR Paramount FHD " tvg-logo="" group-title="Brazilia",BR Paramount FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72142
+#EXTINF:-1 tvg-id="" tvg-name="BR Paramount SD " tvg-logo="" group-title="Brazilia",BR Paramount SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72141
+#EXTINF:-1 tvg-id="" tvg-name="BR Off FHD " tvg-logo="" group-title="Brazilia",BR Off FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72140
+#EXTINF:-1 tvg-id="" tvg-name="BR Off SD " tvg-logo="" group-title="Brazilia",BR Off SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72139
+#EXTINF:-1 tvg-id="" tvg-name="BR NatGeo SD " tvg-logo="" group-title="Brazilia",BR NatGeo SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72138
+#EXTINF:-1 tvg-id="" tvg-name="BR NatGeo Wild SD " tvg-logo="" group-title="Brazilia",BR NatGeo Wild SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72137
+#EXTINF:-1 tvg-id="" tvg-name="BR Nickelodeon FHD " tvg-logo="" group-title="Brazilia",BR Nickelodeon FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72136
+#EXTINF:-1 tvg-id="" tvg-name="BR Nickelodeon SD " tvg-logo="" group-title="Brazilia",BR Nickelodeon SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72135
+#EXTINF:-1 tvg-id="" tvg-name="BR Nick Jr SD " tvg-logo="" group-title="Brazilia",BR Nick Jr SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72133
+#EXTINF:-1 tvg-id="" tvg-name="BR NatGeo Kids FHD " tvg-logo="" group-title="Brazilia",BR NatGeo Kids FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72132
+#EXTINF:-1 tvg-id="" tvg-name="BR NatGeo Kids SD " tvg-logo="" group-title="Brazilia",BR NatGeo Kids SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72131
+#EXTINF:-1 tvg-id="" tvg-name="BR Megapix 4K " tvg-logo="" group-title="Brazilia",BR Megapix 4K 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72130
+#EXTINF:-1 tvg-id="" tvg-name="BR Megapix SD " tvg-logo="" group-title="Brazilia",BR Megapix SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72129
+#EXTINF:-1 tvg-id="" tvg-name="BR Multishow FHD " tvg-logo="" group-title="Brazilia",BR Multishow FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72128
+#EXTINF:-1 tvg-id="" tvg-name="BR Multishow HD " tvg-logo="" group-title="Brazilia",BR Multishow HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72127
+#EXTINF:-1 tvg-id="" tvg-name="BR Multishow SD " tvg-logo="" group-title="Brazilia",BR Multishow SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72126
+#EXTINF:-1 tvg-id="" tvg-name="BR Mais Globosat SD " tvg-logo="" group-title="Brazilia",BR Mais Globosat SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72125
+#EXTINF:-1 tvg-id="" tvg-name="BR MTV FHD " tvg-logo="" group-title="Brazilia",BR MTV FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72124
+#EXTINF:-1 tvg-id="" tvg-name="BR Lifetime FHD " tvg-logo="" group-title="Brazilia",BR Lifetime FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72123
+#EXTINF:-1 tvg-id="" tvg-name="BR ID Discovery HD " tvg-logo="" group-title="Brazilia",BR ID Discovery HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72121
+#EXTINF:-1 tvg-id="" tvg-name="BR ID Discovery SD " tvg-logo="" group-title="Brazilia",BR ID Discovery SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72120
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO FHD " tvg-logo="" group-title="Brazilia",BR HBO FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72119
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO SD " tvg-logo="" group-title="Brazilia",BR HBO SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72118
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Family FHD " tvg-logo="" group-title="Brazilia",BR HBO Family FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72117
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO 2 SD " tvg-logo="" group-title="Brazilia",BR HBO 2 SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72116
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Plus SD " tvg-logo="" group-title="Brazilia",BR HBO Plus SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72115
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Signature HD " tvg-logo="" group-title="Brazilia",BR HBO Signature HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72114
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Signature SD " tvg-logo="" group-title="Brazilia",BR HBO Signature SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72113
+#EXTINF:-1 tvg-id="" tvg-name="BR H2 HD " tvg-logo="" group-title="Brazilia",BR H2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72112
+#EXTINF:-1 tvg-id="" tvg-name="BR H2 SD " tvg-logo="" group-title="Brazilia",BR H2 SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72111
+#EXTINF:-1 tvg-id="" tvg-name="BR History SD " tvg-logo="" group-title="Brazilia",BR History SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72110
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo FHD " tvg-logo="" group-title="Brazilia",BR Globo FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72109
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo HD " tvg-logo="" group-title="Brazilia",BR Globo HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72108
+#EXTINF:-1 tvg-id="" tvg-name="BR GNT FHD " tvg-logo="" group-title="Brazilia",BR GNT FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72107
+#EXTINF:-1 tvg-id="" tvg-name="BR GNT SD " tvg-logo="" group-title="Brazilia",BR GNT SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72106
+#EXTINF:-1 tvg-id="" tvg-name="BR Gloobinho HD " tvg-logo="" group-title="Brazilia",BR Gloobinho HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72105
+#EXTINF:-1 tvg-id="" tvg-name="BR Gloob HD " tvg-logo="" group-title="Brazilia",BR Gloob HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72104
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo News HD " tvg-logo="" group-title="Brazilia",BR Globo News HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72103
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Sports SD " tvg-logo="" group-title="Brazilia",BR FOX Sports SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72102
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Premium 2 FHD " tvg-logo="" group-title="Brazilia",BR FOX Premium 2 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72101
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Premium 1 SD " tvg-logo="" group-title="Brazilia",BR FOX Premium 1 SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72100
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Premium 1 FHD " tvg-logo="" group-title="Brazilia",BR FOX Premium 1 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72099
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX FHD " tvg-logo="" group-title="Brazilia",BR FOX FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72098
+#EXTINF:-1 tvg-id="" tvg-name="BR Fox SD " tvg-logo="" group-title="Brazilia",BR Fox SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72097
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Life FHD " tvg-logo="" group-title="Brazilia",BR FOX Life FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72096
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Life SD " tvg-logo="" group-title="Brazilia",BR FOX Life SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72095
+#EXTINF:-1 tvg-id="" tvg-name="BR Fx HD " tvg-logo="" group-title="Brazilia",BR Fx HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72094
+#EXTINF:-1 tvg-id="" tvg-name="BR Fx SD " tvg-logo="" group-title="Brazilia",BR Fx SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72093
+#EXTINF:-1 tvg-id="" tvg-name="BR Food Network FHD " tvg-logo="" group-title="Brazilia",BR Food Network FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72092
+#EXTINF:-1 tvg-id="" tvg-name="BR Food Network SD " tvg-logo="" group-title="Brazilia",BR Food Network SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72091
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN 2 FHD " tvg-logo="" group-title="Brazilia",BR ESPN 2 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72090
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN azil SD " tvg-logo="" group-title="Brazilia",BR ESPN azil SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72089
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Extra FHD " tvg-logo="" group-title="Brazilia",BR ESPN Extra FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72088
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Extra HD " tvg-logo="" group-title="Brazilia",BR ESPN Extra HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72087
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Extra SD " tvg-logo="" group-title="Brazilia",BR ESPN Extra SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72086
+#EXTINF:-1 tvg-id="" tvg-name="BR E! SD " tvg-logo="" group-title="Brazilia",BR E! SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72085
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Channel FHD " tvg-logo="" group-title="Brazilia",BR Discovery Channel FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72084
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Channel SD " tvg-logo="" group-title="Brazilia",BR Discovery Channel SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72083
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Science FHD " tvg-logo="" group-title="Brazilia",BR Discovery Science FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72082
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery H&H HD " tvg-logo="" group-title="Brazilia",BR Discovery H&H HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72081
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery H&H SD " tvg-logo="" group-title="Brazilia",BR Discovery H&H SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72080
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Theater FHD " tvg-logo="" group-title="Brazilia",BR Discovery Theater FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72079
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo FHD " tvg-logo="" group-title="Brazilia",BR Discovery Turbo FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72078
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo SD " tvg-logo="" group-title="Brazilia",BR Discovery Turbo SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72077
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery World SD " tvg-logo="" group-title="Brazilia",BR Discovery World SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72076
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery World FHD " tvg-logo="" group-title="Brazilia",BR Discovery World FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72075
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney XD SD " tvg-logo="" group-title="Brazilia",BR Disney XD SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72074
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney Jr HD " tvg-logo="" group-title="Brazilia",BR Disney Jr HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72073
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney JR FHD " tvg-logo="" group-title="Brazilia",BR Disney JR FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72072
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney Channel SD " tvg-logo="" group-title="Brazilia",BR Disney Channel SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72071
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Kids SD " tvg-logo="" group-title="Brazilia",BR Discovery Kids SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72070
+#EXTINF:-1 tvg-id="" tvg-name="BR Combate HD " tvg-logo="" group-title="Brazilia",BR Combate HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72069
+#EXTINF:-1 tvg-id="" tvg-name="BR Combate SD " tvg-logo="" group-title="Brazilia",BR Combate SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72068
+#EXTINF:-1 tvg-id="" tvg-name="BR Cinemax FHD " tvg-logo="" group-title="Brazilia",BR Cinemax FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72067
+#EXTINF:-1 tvg-id="" tvg-name="BR Cinemax SD " tvg-logo="" group-title="Brazilia",BR Cinemax SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72066
+#EXTINF:-1 tvg-id="" tvg-name="BR Comedy Central HD " tvg-logo="" group-title="Brazilia",BR Comedy Central HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72065
+#EXTINF:-1 tvg-id="" tvg-name="BR Comedy Central SD " tvg-logo="" group-title="Brazilia",BR Comedy Central SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72064
+#EXTINF:-1 tvg-id="" tvg-name="BR Canal asil FHD " tvg-logo="" group-title="Brazilia",BR Canal asil FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72063
+#EXTINF:-1 tvg-id="" tvg-name="BR Canal asil SD " tvg-logo="" group-title="Brazilia",BR Canal asil SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72062
+#EXTINF:-1 tvg-id="" tvg-name="BR CNN Internacional SD " tvg-logo="" group-title="Brazilia",BR CNN Internacional SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72061
+#EXTINF:-1 tvg-id="" tvg-name="BR Cartoon Network FHD " tvg-logo="" group-title="Brazilia",BR Cartoon Network FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72060
+#EXTINF:-1 tvg-id="" tvg-name="BR Cartoon Network SD " tvg-logo="" group-title="Brazilia",BR Cartoon Network SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72059
+#EXTINF:-1 tvg-id="" tvg-name="BR Boomerang SD " tvg-logo="" group-title="Brazilia",BR Boomerang SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72058
+#EXTINF:-1 tvg-id="" tvg-name="BR BIS FHD " tvg-logo="" group-title="Brazilia",BR BIS FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72057
+#EXTINF:-1 tvg-id="" tvg-name="BR BIS SD " tvg-logo="" group-title="Brazilia",BR BIS SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72056
+#EXTINF:-1 tvg-id="" tvg-name="BR Band Campinas HD " tvg-logo="" group-title="Brazilia",BR Band Campinas HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72055
+#EXTINF:-1 tvg-id="" tvg-name="BR Band FHD " tvg-logo="" group-title="Brazilia",BR Band FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72054
+#EXTINF:-1 tvg-id="" tvg-name="BR Band HD " tvg-logo="" group-title="Brazilia",BR Band HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72053
+#EXTINF:-1 tvg-id="" tvg-name="BR Band Sports FHD " tvg-logo="" group-title="Brazilia",BR Band Sports FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72052
+#EXTINF:-1 tvg-id="" tvg-name="BR Band News SD " tvg-logo="" group-title="Brazilia",BR Band News SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72051
+#EXTINF:-1 tvg-id="" tvg-name="BR Baby TV SD " tvg-logo="" group-title="Brazilia",BR Baby TV SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72050
+#EXTINF:-1 tvg-id="" tvg-name="BR ALL SPORTS HD " tvg-logo="" group-title="Brazilia",BR ALL SPORTS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72049
+#EXTINF:-1 tvg-id="" tvg-name="BR Animal Planet SD " tvg-logo="" group-title="Brazilia",BR Animal Planet SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72048
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E SD " tvg-logo="" group-title="Brazilia",BR A&E SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72047
+#EXTINF:-1 tvg-id="" tvg-name="BR Arte 1 FHD " tvg-logo="" group-title="Brazilia",BR Arte 1 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72046
+#EXTINF:-1 tvg-id="" tvg-name="BR AMC SD " tvg-logo="" group-title="Brazilia",BR AMC SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72045
+#EXTINF:-1 tvg-id="" tvg-name="BR AXN SD " tvg-logo="" group-title="Brazilia",BR AXN SD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72044
+#EXTINF:-1 tvg-id="" tvg-name="BR Fox Sports 2 FHD " tvg-logo="" group-title="Brazilia",BR Fox Sports 2 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72043
+#EXTINF:-1 tvg-id="" tvg-name="BR PFC " tvg-logo="" group-title="Brazilia",BR PFC 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72042
+#EXTINF:-1 tvg-id="" tvg-name="BR WOOHOO FHD " tvg-logo="" group-title="Brazilia",BR WOOHOO FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72041
+#EXTINF:-1 tvg-id="" tvg-name="BR WARNER CHANNEL FHD " tvg-logo="" group-title="Brazilia",BR WARNER CHANNEL FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72040
+#EXTINF:-1 tvg-id="" tvg-name="BR VH1 " tvg-logo="" group-title="Brazilia",BR VH1 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72039
+#EXTINF:-1 tvg-id="" tvg-name="BR UNIVERSAL TV FHD " tvg-logo="" group-title="Brazilia",BR UNIVERSAL TV FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72038
+#EXTINF:-1 tvg-id="" tvg-name="BR Tooncast FHD " tvg-logo="" group-title="Brazilia",BR Tooncast FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72037
+#EXTINF:-1 tvg-id="" tvg-name="BR TV GAZETA FHD " tvg-logo="" group-title="Brazilia",BR TV GAZETA FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72036
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO ASILIA " tvg-logo="" group-title="Brazilia",BR GLOBO ASILIA 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72035
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT Series " tvg-logo="" group-title="Brazilia",BR TNT Series 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72034
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT " tvg-logo="" group-title="Brazilia",BR TNT 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72033
+#EXTINF:-1 tvg-id="" tvg-name="BR VIVA HD " tvg-logo="" group-title="Brazilia",BR VIVA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72032
+#EXTINF:-1 tvg-id="" tvg-name="BR TELECINE TOUCH HD " tvg-logo="" group-title="Brazilia",BR TELECINE TOUCH HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72031
+#EXTINF:-1 tvg-id="" tvg-name="BR TELECINE PREMIUM HD " tvg-logo="" group-title="Brazilia",BR TELECINE PREMIUM HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72030
+#EXTINF:-1 tvg-id="" tvg-name="BR TELECINE PIPOCA HD " tvg-logo="" group-title="Brazilia",BR TELECINE PIPOCA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72029
+#EXTINF:-1 tvg-id="" tvg-name="BR TELECINE FUN FHD " tvg-logo="" group-title="Brazilia",BR TELECINE FUN FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72028
+#EXTINF:-1 tvg-id="" tvg-name="BR TELECINE CULT HD " tvg-logo="" group-title="Brazilia",BR TELECINE CULT HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72027
+#EXTINF:-1 tvg-id="" tvg-name="BR TELECINE ACTION FHD " tvg-logo="" group-title="Brazilia",BR TELECINE ACTION FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72026
+#EXTINF:-1 tvg-id="" tvg-name="BR TCM HD " tvg-logo="" group-title="Brazilia",BR TCM HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72025
+#EXTINF:-1 tvg-id="" tvg-name="BR TBS " tvg-logo="" group-title="Brazilia",BR TBS 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72024
+#EXTINF:-1 tvg-id="" tvg-name="BR SYFY HD " tvg-logo="" group-title="Brazilia",BR SYFY HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72023
+#EXTINF:-1 tvg-id="" tvg-name="BR STUDIO UNIVERSAL FHD " tvg-logo="" group-title="Brazilia",BR STUDIO UNIVERSAL FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72022
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 HD " tvg-logo="" group-title="Brazilia",BR SPORTV 3 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72021
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD " tvg-logo="" group-title="Brazilia",BR SPORTV 2 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72020
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 1 HD " tvg-logo="" group-title="Brazilia",BR SPORTV 1 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72019
+#EXTINF:-1 tvg-id="" tvg-name="BR SPACE " tvg-logo="" group-title="Brazilia",BR SPACE 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72018
+#EXTINF:-1 tvg-id="" tvg-name="BR SONY FHD " tvg-logo="" group-title="Brazilia",BR SONY FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72017
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT TV CIDADE VERDE PIAUI HD " tvg-logo="" group-title="Brazilia",BR SBT TV CIDADE VERDE PIAUI HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72016
+#EXTINF:-1 tvg-id="" tvg-name="BR SBT HD " tvg-logo="" group-title="Brazilia",BR SBT HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72015
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO EPTV RIBEIRAO PRETO " tvg-logo="" group-title="Brazilia",BR GLOBO EPTV RIBEIRAO PRETO 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72014
+#EXTINF:-1 tvg-id="" tvg-name="BR REDE VIDA HD " tvg-logo="" group-title="Brazilia",BR REDE VIDA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72013
+#EXTINF:-1 tvg-id="" tvg-name="BR REDE FAMILIA FHD " tvg-logo="" group-title="Brazilia",BR REDE FAMILIA FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72012
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD SP HD " tvg-logo="" group-title="Brazilia",BR RECORD SP HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72011
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD NORDESTE HD " tvg-logo="" group-title="Brazilia",BR RECORD NORDESTE HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72010
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD NEWS HD " tvg-logo="" group-title="Brazilia",BR RECORD NEWS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72009
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD MG HD " tvg-logo="" group-title="Brazilia",BR RECORD MG HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72008
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD ESP. SANTO HD " tvg-logo="" group-title="Brazilia",BR RECORD ESP. SANTO HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72007
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD CAMPINAS HD " tvg-logo="" group-title="Brazilia",BR RECORD CAMPINAS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72006
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD AMAZONAS HD " tvg-logo="" group-title="Brazilia",BR RECORD AMAZONAS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72005
+#EXTINF:-1 tvg-id="" tvg-name="BR RECORD HD " tvg-logo="" group-title="Brazilia",BR RECORD HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72004
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE CLUBES HD " tvg-logo="" group-title="Brazilia",BR PREMIERE CLUBES HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72003
+#EXTINF:-1 tvg-id="" tvg-name="BR PARAMOUNT CHANNEL HD " tvg-logo="" group-title="Brazilia",BR PARAMOUNT CHANNEL HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72002
+#EXTINF:-1 tvg-id="" tvg-name="BR OFF HD " tvg-logo="" group-title="Brazilia",BR OFF HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72001
+#EXTINF:-1 tvg-id="" tvg-name="BR NICKELODEON HD " tvg-logo="" group-title="Brazilia",BR NICKELODEON HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/72000
+#EXTINF:-1 tvg-id="" tvg-name="BR NICK JR HD " tvg-logo="" group-title="Brazilia",BR NICK JR HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71999
+#EXTINF:-1 tvg-id="" tvg-name="BR NATIONAL GEOGRAPHIC HD " tvg-logo="" group-title="Brazilia",BR NATIONAL GEOGRAPHIC HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71998
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO WILD HD " tvg-logo="" group-title="Brazilia",BR NAT GEO WILD HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71997
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO KIDS HD " tvg-logo="" group-title="Brazilia",BR NAT GEO KIDS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71996
+#EXTINF:-1 tvg-id="" tvg-name="BR MUSIC BOX AZIL " tvg-logo="" group-title="Brazilia",BR MUSIC BOX AZIL 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71995
+#EXTINF:-1 tvg-id="" tvg-name="BR MTV LIVE FHD " tvg-logo="" group-title="Brazilia",BR MTV LIVE FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71994
+#EXTINF:-1 tvg-id="" tvg-name="BR MTV HD " tvg-logo="" group-title="Brazilia",BR MTV HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71993
+#EXTINF:-1 tvg-id="" tvg-name="BR MEGAPIX HD " tvg-logo="" group-title="Brazilia",BR MEGAPIX HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71992
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO POP HD " tvg-logo="" group-title="Brazilia",BR HBO POP HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71991
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO Xtreme FHD " tvg-logo="" group-title="Brazilia",BR HBO Xtreme FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71990
+#EXTINF:-1 tvg-id="" tvg-name="BR LIFETIME HD " tvg-logo="" group-title="Brazilia",BR LIFETIME HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71989
+#EXTINF:-1 tvg-id="" tvg-name="BR ID FHD " tvg-logo="" group-title="Brazilia",BR ID FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71988
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO SIGNATURE FHD " tvg-logo="" group-title="Brazilia",BR HBO SIGNATURE FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71987
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO PLUS HD " tvg-logo="" group-title="Brazilia",BR HBO PLUS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71986
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO PLUS FHD " tvg-logo="" group-title="Brazilia",BR HBO PLUS FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71985
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO FAMILY HD " tvg-logo="" group-title="Brazilia",BR HBO FAMILY HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71984
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO 2 HD " tvg-logo="" group-title="Brazilia",BR HBO 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71983
+#EXTINF:-1 tvg-id="" tvg-name="BR HBO HD " tvg-logo="" group-title="Brazilia",BR HBO HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71982
+#EXTINF:-1 tvg-id="" tvg-name="BR H2 FHD " tvg-logo="" group-title="Brazilia",BR H2 FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71981
+#EXTINF:-1 tvg-id="" tvg-name="BR GNT HD " tvg-logo="" group-title="Brazilia",BR GNT HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71980
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOOB FHD " tvg-logo="" group-title="Brazilia",BR GLOOB FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71979
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV VERDES MARES FORTALEZA HD " tvg-logo="" group-title="Brazilia",BR GLOBO TV VERDES MARES FORTALEZA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71978
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV VANGUARDA S.J DOS CAMPOS " tvg-logo="" group-title="Brazilia",BR GLOBO TV VANGUARDA S.J DOS CAMPOS 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71977
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV TRIBUNA SANTOS  " tvg-logo="" group-title="Brazilia",BR GLOBO TV TRIBUNA SANTOS  
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71976
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO TV BELEM " tvg-logo="" group-title="Brazilia",BR GLOBO TV BELEM 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71975
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO SP FHD " tvg-logo="" group-title="Brazilia",BR GLOBO SP FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71974
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RPC TV " tvg-logo="" group-title="Brazilia",BR GLOBO RPC TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71973
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RJ FHD " tvg-logo="" group-title="Brazilia",BR GLOBO RJ FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71972
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RIO GRANDE DO NORTE HD " tvg-logo="" group-title="Brazilia",BR GLOBO RIO GRANDE DO NORTE HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71971
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RIBEIR HD " tvg-logo="" group-title="Brazilia",BR GLOBO RIBEIR HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71970
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO RBS PORTO ALEGRE " tvg-logo="" group-title="Brazilia",BR GLOBO RBS PORTO ALEGRE 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71969
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO NORDESTE HD " tvg-logo="" group-title="Brazilia",BR GLOBO NORDESTE HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71968
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO NEWS FHD " tvg-logo="" group-title="Brazilia",BR GLOBO NEWS FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71967
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO INTERNACIONAL HD " tvg-logo="" group-title="Brazilia",BR GLOBO INTERNACIONAL HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71966
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO EPTV SAO CARLOS " tvg-logo="" group-title="Brazilia",BR GLOBO EPTV SAO CARLOS 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71965
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO EPTV RIBEIR " tvg-logo="" group-title="Brazilia",BR GLOBO EPTV RIBEIR 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71964
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO EPTV CAMPINAS HD " tvg-logo="" group-title="Brazilia",BR GLOBO EPTV CAMPINAS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71963
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO CUIABA HD " tvg-logo="" group-title="Brazilia",BR GLOBO CUIABA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71962
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO ASILIA  " tvg-logo="" group-title="Brazilia",BR GLOBO ASILIA  
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71961
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO BAHIA FHD " tvg-logo="" group-title="Brazilia",BR GLOBO BAHIA FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71960
+#EXTINF:-1 tvg-id="" tvg-name="BR GLOBO AMAZONAS HD " tvg-logo="" group-title="Brazilia",BR GLOBO AMAZONAS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71959
+#EXTINF:-1 tvg-id="" tvg-name="BR FX FHD " tvg-logo="" group-title="Brazilia",BR FX FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71958
+#EXTINF:-1 tvg-id="" tvg-name="BR FUTURA HD " tvg-logo="" group-title="Brazilia",BR FUTURA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71957
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX SPORTS 2 HD " tvg-logo="" group-title="Brazilia",BR FOX SPORTS 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71956
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX SPORTS FHD " tvg-logo="" group-title="Brazilia",BR FOX SPORTS FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71955
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX PREMIUM 2 HD " tvg-logo="" group-title="Brazilia",BR FOX PREMIUM 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71954
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX PREMIUM 1 HD " tvg-logo="" group-title="Brazilia",BR FOX PREMIUM 1 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71953
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX LIFE HD " tvg-logo="" group-title="Brazilia",BR FOX LIFE HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71952
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX HD " tvg-logo="" group-title="Brazilia",BR FOX HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71951
+#EXTINF:-1 tvg-id="" tvg-name="BR FOOD NETWORK HD " tvg-logo="" group-title="Brazilia",BR FOOD NETWORK HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71950
+#EXTINF:-1 tvg-id="" tvg-name="BR FISH TV HD " tvg-logo="" group-title="Brazilia",BR FISH TV HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71949
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN 2 HD " tvg-logo="" group-title="Brazilia",BR ESPN 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71948
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN ASIL HD " tvg-logo="" group-title="Brazilia",BR ESPN ASIL HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71947
+#EXTINF:-1 tvg-id="" tvg-name="BR ESPN HD " tvg-logo="" group-title="Brazilia",BR ESPN HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71946
+#EXTINF:-1 tvg-id="" tvg-name="BR E! HD " tvg-logo="" group-title="Brazilia",BR E! HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71945
+#EXTINF:-1 tvg-id="" tvg-name="BR DISNEY XD HD " tvg-logo="" group-title="Brazilia",BR DISNEY XD HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71944
+#EXTINF:-1 tvg-id="" tvg-name="BR DISNEY Junior " tvg-logo="" group-title="Brazilia",BR DISNEY Junior 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71943
+#EXTINF:-1 tvg-id="" tvg-name="BR DISNEY CHANNEL FHD " tvg-logo="" group-title="Brazilia",BR DISNEY CHANNEL FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71942
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY WORLD HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY WORLD HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71941
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY TLC HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY TLC HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71940
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY THEATER HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY THEATER HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71939
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY SCIENCE HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY SCIENCE HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71938
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY KIDS HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY KIDS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71937
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY HOME & HEALTH FHD " tvg-logo="" group-title="Brazilia",BR DISCOVERY HOME & HEALTH FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71936
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY CIVILIZATION HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY CIVILIZATION HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71935
+#EXTINF:-1 tvg-id="" tvg-name="BR DISCOVERY CHANNEL HD " tvg-logo="" group-title="Brazilia",BR DISCOVERY CHANNEL HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71934
+#EXTINF:-1 tvg-id="" tvg-name="BR CURTA! HD " tvg-logo="" group-title="Brazilia",BR CURTA! HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71933
+#EXTINF:-1 tvg-id="" tvg-name="BR CULTURA HD " tvg-logo="" group-title="Brazilia",BR CULTURA HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71932
+#EXTINF:-1 tvg-id="" tvg-name="BR COMEDY CENTRAL FHD " tvg-logo="" group-title="Brazilia",BR COMEDY CENTRAL FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71931
+#EXTINF:-1 tvg-id="" tvg-name="BR COMBATE FHD " tvg-logo="" group-title="Brazilia",BR COMBATE FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71930
+#EXTINF:-1 tvg-id="" tvg-name="BR CINEMAX HD " tvg-logo="" group-title="Brazilia",BR CINEMAX HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71929
+#EXTINF:-1 tvg-id="" tvg-name="BR CARTOON NETWORK HD " tvg-logo="" group-title="Brazilia",BR CARTOON NETWORK HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71928
+#EXTINF:-1 tvg-id="" tvg-name="BR Canal asil HD " tvg-logo="" group-title="Brazilia",BR Canal asil HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71927
+#EXTINF:-1 tvg-id="" tvg-name="BR BOOMERANG HD " tvg-logo="" group-title="Brazilia",BR BOOMERANG HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71926
+#EXTINF:-1 tvg-id="" tvg-name="BR BIS HD " tvg-logo="" group-title="Brazilia",BR BIS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71925
+#EXTINF:-1 tvg-id="" tvg-name="BR BAND NEWS FHD " tvg-logo="" group-title="Brazilia",BR BAND NEWS FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71924
+#EXTINF:-1 tvg-id="" tvg-name="BR BAND CAMPINAS " tvg-logo="" group-title="Brazilia",BR BAND CAMPINAS 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71923
+#EXTINF:-1 tvg-id="" tvg-name="BR BABY TV HD " tvg-logo="" group-title="Brazilia",BR BABY TV HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71922
+#EXTINF:-1 tvg-id="" tvg-name="BR AXN FHD " tvg-logo="" group-title="Brazilia",BR AXN FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71921
+#EXTINF:-1 tvg-id="" tvg-name="BR Arte 1 HD " tvg-logo="" group-title="Brazilia",BR Arte 1 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71920
+#EXTINF:-1 tvg-id="" tvg-name="BR AMC HD " tvg-logo="" group-title="Brazilia",BR AMC HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71919
+#EXTINF:-1 tvg-id="" tvg-name="BR Animal Planet FHD " tvg-logo="" group-title="Brazilia",BR Animal Planet FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71918
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E FHD " tvg-logo="" group-title="Brazilia",BR A&E FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71917
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo HD " tvg-logo="" group-title="Brazilia",BR Discovery Turbo HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71916
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 7 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 7 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71915
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 6 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 6 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71914
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 5 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 5 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71913
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 4 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 4 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71912
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 3 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 3 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71911
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 2 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71910
+#EXTINF:-1 tvg-id="" tvg-name="BR PREMIERE 1 HD " tvg-logo="" group-title="Brazilia",BR PREMIERE 1 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71909
+#EXTINF:-1 tvg-id="" tvg-name="BR Warner TV " tvg-logo="" group-title="Brazilia",BR Warner TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71908
+#EXTINF:-1 tvg-id="" tvg-name="BR VH1 Mega Hits " tvg-logo="" group-title="Brazilia",BR VH1 Mega Hits 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71907
+#EXTINF:-1 tvg-id="" tvg-name="BR Woohoo HD " tvg-logo="" group-title="Brazilia",BR Woohoo HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71906
+#EXTINF:-1 tvg-id="" tvg-name="BR Studio Universal HD " tvg-logo="" group-title="Brazilia",BR Studio Universal HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71905
+#EXTINF:-1 tvg-id="" tvg-name="BR Universal TV " tvg-logo="" group-title="Brazilia",BR Universal TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71904
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Globo Premium " tvg-logo="" group-title="Brazilia",BR TV Globo Premium 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71903
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Globo " tvg-logo="" group-title="Brazilia",BR TV Globo 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71902
+#EXTINF:-1 tvg-id="" tvg-name="BR TV Gazeta HD " tvg-logo="" group-title="Brazilia",BR TV Gazeta HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71901
+#EXTINF:-1 tvg-id="" tvg-name="BR TLC " tvg-logo="" group-title="Brazilia",BR TLC 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71900
+#EXTINF:-1 tvg-id="" tvg-name="BR TV asil Central " tvg-logo="" group-title="Brazilia",BR TV asil Central 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71899
+#EXTINF:-1 tvg-id="" tvg-name="BR TNT HD " tvg-logo="" group-title="Brazilia",BR TNT HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71898
+#EXTINF:-1 tvg-id="" tvg-name="BR TC Pipoca HD " tvg-logo="" group-title="Brazilia",BR TC Pipoca HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71897
+#EXTINF:-1 tvg-id="" tvg-name="BR TC Fun " tvg-logo="" group-title="Brazilia",BR TC Fun 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71896
+#EXTINF:-1 tvg-id="" tvg-name="BR TC Cult " tvg-logo="" group-title="Brazilia",BR TC Cult 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71895
+#EXTINF:-1 tvg-id="" tvg-name="BR TC Action " tvg-logo="" group-title="Brazilia",BR TC Action 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71894
+#EXTINF:-1 tvg-id="" tvg-name="BR Syfy " tvg-logo="" group-title="Brazilia",BR Syfy 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71893
+#EXTINF:-1 tvg-id="" tvg-name="BR SporTV 3 " tvg-logo="" group-title="Brazilia",BR SporTV 3 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71892
+#EXTINF:-1 tvg-id="" tvg-name="BR SporTV 2 " tvg-logo="" group-title="Brazilia",BR SporTV 2 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71891
+#EXTINF:-1 tvg-id="" tvg-name="BR SporTV 1 " tvg-logo="" group-title="Brazilia",BR SporTV 1 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71890
+#EXTINF:-1 tvg-id="" tvg-name="BR Rede TV " tvg-logo="" group-title="Brazilia",BR Rede TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71889
+#EXTINF:-1 tvg-id="" tvg-name="BR Rede Gospel " tvg-logo="" group-title="Brazilia",BR Rede Gospel 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71888
+#EXTINF:-1 tvg-id="" tvg-name="BR Rede asil " tvg-logo="" group-title="Brazilia",BR Rede asil 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71887
+#EXTINF:-1 tvg-id="" tvg-name="BR MegaPix TV " tvg-logo="" group-title="Brazilia",BR MegaPix TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71886
+#EXTINF:-1 tvg-id="" tvg-name="BR MegaPix " tvg-logo="" group-title="Brazilia",BR MegaPix 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71885
+#EXTINF:-1 tvg-id="" tvg-name="BR Mais Globosat HD " tvg-logo="" group-title="Brazilia",BR Mais Globosat HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71884
+#EXTINF:-1 tvg-id="" tvg-name="BR MTV " tvg-logo="" group-title="Brazilia",BR MTV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71883
+#EXTINF:-1 tvg-id="" tvg-name="BR History FHD " tvg-logo="" group-title="Brazilia",BR History FHD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71882
+#EXTINF:-1 tvg-id="" tvg-name="BR Gloob " tvg-logo="" group-title="Brazilia",BR Gloob 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71881
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo SP HD " tvg-logo="" group-title="Brazilia",BR Globo SP HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71880
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo SP " tvg-logo="" group-title="Brazilia",BR Globo SP 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71879
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo RJ HD " tvg-logo="" group-title="Brazilia",BR Globo RJ HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71878
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo RJ " tvg-logo="" group-title="Brazilia",BR Globo RJ 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71877
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo MINAS HD " tvg-logo="" group-title="Brazilia",BR Globo MINAS HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71876
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo Nordeste " tvg-logo="" group-title="Brazilia",BR Globo Nordeste 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71875
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo News " tvg-logo="" group-title="Brazilia",BR Globo News 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71874
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Sports 2 " tvg-logo="" group-title="Brazilia",BR FOX Sports 2 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71873
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX Sports HD " tvg-logo="" group-title="Brazilia",BR FOX Sports HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71872
+#EXTINF:-1 tvg-id="" tvg-name="BR Fish TV " tvg-logo="" group-title="Brazilia",BR Fish TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71871
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery TV " tvg-logo="" group-title="Brazilia",BR Discovery TV 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71870
+#EXTINF:-1 tvg-id="" tvg-name="BR Band News HD " tvg-logo="" group-title="Brazilia",BR Band News HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71869
+#EXTINF:-1 tvg-id="" tvg-name="BR Can " tvg-logo="" group-title="Brazilia",BR Can 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71868
+#EXTINF:-1 tvg-id="" tvg-name="BR Band Sport HD " tvg-logo="" group-title="Brazilia",BR Band Sport HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71867
+#EXTINF:-1 tvg-id="" tvg-name="BR AXN HD " tvg-logo="" group-title="Brazilia",BR AXN HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71866
+#EXTINF:-1 tvg-id="" tvg-name="BR Arte 1 " tvg-logo="" group-title="Brazilia",BR Arte 1 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71865
+#EXTINF:-1 tvg-id="" tvg-name="BR Animal Planet HD " tvg-logo="" group-title="Brazilia",BR Animal Planet HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71864
+#EXTINF:-1 tvg-id="" tvg-name="BR AE HD " tvg-logo="" group-title="Brazilia",BR AE HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71863
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 1 HD " tvg-logo="" group-title="Brazilia",BR BBB CAM 1 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71862
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 2 HD " tvg-logo="" group-title="Brazilia",BR BBB CAM 2 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71861
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB CAM 3 HD " tvg-logo="" group-title="Brazilia",BR BBB CAM 3 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71860
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 MOSAICO " tvg-logo="" group-title="Brazilia",BR BBB 21 MOSAICO 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71859
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 CAM PRINCIPAL " tvg-logo="" group-title="Brazilia",BR BBB 21 CAM PRINCIPAL 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71858
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 ACOMPANHE A CASA " tvg-logo="" group-title="Brazilia",BR BBB 21 ACOMPANHE A CASA 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71857
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 ACOMPANHE A CASA EXTRA " tvg-logo="" group-title="Brazilia",BR BBB 21 ACOMPANHE A CASA EXTRA 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71856
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 CONFESSIONARIO " tvg-logo="" group-title="Brazilia",BR BBB 21 CONFESSIONARIO 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71855
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 QUARTO CORDEL " tvg-logo="" group-title="Brazilia",BR BBB 21 QUARTO CORDEL 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71854
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 QUARTO COLORIDO " tvg-logo="" group-title="Brazilia",BR BBB 21 QUARTO COLORIDO 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71853
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 COZINHA XEPA " tvg-logo="" group-title="Brazilia",BR BBB 21 COZINHA XEPA 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71852
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 SALA DE ESTAR " tvg-logo="" group-title="Brazilia",BR BBB 21 SALA DE ESTAR 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71851
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 PISCINA " tvg-logo="" group-title="Brazilia",BR BBB 21 PISCINA 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71850
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 JARDIM " tvg-logo="" group-title="Brazilia",BR BBB 21 JARDIM 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71849
+#EXTINF:-1 tvg-id="" tvg-name="BR BBB 21 HD " tvg-logo="" group-title="Brazilia",BR BBB 21 HD 
+http://otthome.xyz:8080/eaHbfrkG/xsYnwH9fED/71848
